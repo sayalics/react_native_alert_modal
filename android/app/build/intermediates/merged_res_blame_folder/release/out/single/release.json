@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/intermediates/res/merged/release/drawable-mdpi_res_dash.png.flat",
+        "source": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/generated/res/react/release/drawable-mdpi/res_dash.png"
+    },
+    {
+        "merged": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/intermediates/res/merged/release/raw_app.json.flat",
+        "source": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/generated/res/react/release/raw/app.json"
+    },
+    {
+        "merged": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_res_dash.png.flat",
+        "source": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/generated/res/react/release/drawable-xxhdpi/res_dash.png"
+    },
+    {
+        "merged": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/intermediates/res/merged/release/drawable-xhdpi_res_dash.png.flat",
+        "source": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/generated/res/react/release/drawable-xhdpi/res_dash.png"
+    },
+    {
+        "merged": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/mindbowser/Documents/Goals Modules/react_native_alert_modal/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]
