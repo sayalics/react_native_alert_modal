@@ -1,0 +1,20 @@
+export const colors = {
+    primary:'#455674',
+    secondary:'#5B616B',
+    tertiary:'#AEB0B5',
+    white: '#FFFFFF',
+    black: '#000000',
+    slateGrey: '#606062',
+    light_grey: '#BFC4CB',
+    borderGray: '#C0C0C0',
+    transparent: 'rgba(0, 0, 0, 0.1)',
+    blue: '#70B8FF',
+    royal_blue: '#3F4DA0',
+    green: '#49C86F',
+    red: '#FF4233',
+    orange: '#DEA10B',
+    cardWhite: '#FCFCFC',
+    yellow: '#FFD250',
+    grey: '#A9A9A9',
+  };
+  
